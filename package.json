@@ -1,14 +1,22 @@
 {
   "name": "cronsave",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "description": "Cron save playerdata",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "iQiaFUN",
-  "license": "ISC",
+  "license": "AGPL-3.0",
   "dependencies": {
     "node-cron": "^3.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iQiaFUN/cronSave.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iQiaFUN/cronSave/issues"
+  },
+  "homepage": "https://github.com/iQiaFUN/cronSave#readme"
 }
